@@ -1,0 +1,29 @@
+
+ h1 {
+  color:rebeccapurple;
+ } 
+ 
+ h2,p{
+     text-align: center;
+ }
+
+ /**{
+     border:solid;
+ }*/
+
+ .header{
+   background-color: aqua;  
+   display: flex;
+   justify-content: space-between;
+ }
+
+ .grid{
+   display: flex; 
+   flex-wrap: wrap;
+   justify-content: space-evenly; 
+ }
+
+ .reference{
+   display: flex; 
+   justify-content: flex-end;   
+ }
